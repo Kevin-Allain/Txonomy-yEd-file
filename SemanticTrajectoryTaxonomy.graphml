@@ -920,7 +920,7 @@ pace-time cube<y:LabelModel>
     <node id="n52">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="43.0" width="133.0" x="-353.27272178953746" y="59.61987169639542"/>
+          <y:Geometry height="43.0" width="133.0" x="-64.62155351566491" y="53.13623337562046"/>
           <y:Fill color="#FF0000" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="64.697265625" x="34.1513671875" y="12.1494140625">Scatter plot<y:LabelModel>
@@ -937,24 +937,7 @@ pace-time cube<y:LabelModel>
     <node id="n53">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="43.0" width="133.0" x="2487.3379476199048" y="1637.1913802559263"/>
-          <y:Fill color="#CCFFCC" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.705078125" x="41.1474609375" y="12.1494140625">Bundling<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
-          <y:Shape type="roundrectangle"/>
-        </y:ShapeNode>
-      </data>
-    </node>
-    <node id="n54">
-      <data key="d6">
-        <y:ShapeNode>
-          <y:Geometry height="43.0" width="133.0" x="2302.4983313619878" y="988.869492981307"/>
+          <y:Geometry height="43.0" width="133.0" x="2302.4983313619878" y="842.869492981307"/>
           <y:Fill color="#CCFFCC" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="48.6953125" x="42.15234375" y="12.1494140625">Average<y:LabelModel>
@@ -968,7 +951,7 @@ pace-time cube<y:LabelModel>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n55">
+    <node id="n54">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="43.0" width="133.0" x="2291.252333374706" y="915.869492981307"/>
@@ -1920,80 +1903,41 @@ pace-time cube<y:LabelModel>
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="146.7526092529297" y="118.47024536132812"/>
+            <y:Point x="269.43402099609375" y="-15.419805526733398"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:Arc height="101.23922729492188" ratio="0.47845736145973206" type="fixedRatio"/>
+          <y:Arc height="-31.240034103393555" ratio="-0.22268888354301453" type="fixedRatio"/>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="e78" source="n52" target="n50">
+    <edge id="e78" source="n32" target="n53">
       <data key="d9"/>
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="-198.04209899902344" y="693.4788818359375"/>
+            <y:Point x="2491.6845703125" y="899.0510864257812"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:Arc height="-238.39756774902344" ratio="-0.8350404500961304" type="fixedRatio"/>
+          <y:Arc height="-48.83006286621094" ratio="-0.8292251825332642" type="fixedRatio"/>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="e79" source="n24" target="n53">
+    <edge id="e79" source="n53" target="n49">
       <data key="d9"/>
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="2778.393310546875" y="1507.142822265625"/>
+            <y:Point x="1972.760009765625" y="805.6519775390625"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:Arc height="121.15447998046875" ratio="1.0" type="fixedRatio"/>
+          <y:Arc height="-69.78250885009766" ratio="-0.3538307845592499" type="fixedRatio"/>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="e80" source="n53" target="n50">
-      <data key="d9"/>
-      <data key="d10">
-        <y:ArcEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="1397.3360595703125" y="1470.9598388671875"/>
-          </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:Arc height="114.98639678955078" ratio="0.19723501801490784" type="fixedRatio"/>
-        </y:ArcEdge>
-      </data>
-    </edge>
-    <edge id="e81" source="n32" target="n54">
-      <data key="d9"/>
-      <data key="d10">
-        <y:ArcEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="2461.41796875" y="1056.579345703125"/>
-          </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:Arc height="46.20989990234375" ratio="1.0" type="fixedRatio"/>
-        </y:ArcEdge>
-      </data>
-    </edge>
-    <edge id="e82" source="n54" target="n49">
-      <data key="d9"/>
-      <data key="d10">
-        <y:ArcEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="1985.6748046875" y="878.6519775390625"/>
-          </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:Arc height="-70.61127471923828" ratio="-0.3538307845592499" type="fixedRatio"/>
-        </y:ArcEdge>
-      </data>
-    </edge>
-    <edge id="e83" source="n32" target="n55">
+    <edge id="e80" source="n32" target="n54">
       <data key="d9"/>
       <data key="d10">
         <y:ArcEdge>
@@ -2006,7 +1950,7 @@ pace-time cube<y:LabelModel>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="e84" source="n55" target="n50">
+    <edge id="e81" source="n54" target="n50">
       <data key="d9"/>
       <data key="d10">
         <y:ArcEdge>
@@ -2016,6 +1960,45 @@ pace-time cube<y:LabelModel>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:Arc height="-8.571756362915039" ratio="-0.016630657017230988" type="fixedRatio"/>
+        </y:ArcEdge>
+      </data>
+    </edge>
+    <edge id="e82" source="n5" target="n50">
+      <data key="d9"/>
+      <data key="d10">
+        <y:ArcEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="-289.4508056640625" y="693.453857421875"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:Arc height="-384.98406982421875" ratio="-1.332234501838684" type="fixedRatio"/>
+        </y:ArcEdge>
+      </data>
+    </edge>
+    <edge id="e83" source="n52" target="n45">
+      <data key="d9"/>
+      <data key="d10">
+        <y:ArcEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="952.768798828125" y="455.47711181640625"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:Arc height="194.71817016601562" ratio="0.38725122809410095" type="fixedRatio"/>
+        </y:ArcEdge>
+      </data>
+    </edge>
+    <edge id="e84" source="n21" target="n50">
+      <data key="d9"/>
+      <data key="d10">
+        <y:ArcEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="453.3873291015625" y="861.0637817382812"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:Arc height="112.73373413085938" ratio="1.0" type="fixedRatio"/>
         </y:ArcEdge>
       </data>
     </edge>
